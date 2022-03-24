@@ -16,6 +16,7 @@
 #""
 ## (Comments)
 #Sample Feature Definition Template
+# Test is started
 @Smoke_Test
 Feature: Title of your feature
   I want to use this template for my feature file
